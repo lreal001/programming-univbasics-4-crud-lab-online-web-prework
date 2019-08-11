@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [dog, cat, fish, bird]
+  my_pets=[dog, cat, fish, bird]
 end
 
 def add_element_to_end_of_array(array, element)
